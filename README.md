@@ -104,7 +104,7 @@ Led planning and execution of the intercollegiate statistics fest, managing time
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khushi-gupta" target="_blank">
+  <a href="www.linkedin.com/in/khushi-gupta-783780217" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/khushi9280" target="_blank">
