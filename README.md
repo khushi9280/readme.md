@@ -73,13 +73,6 @@ May 2025 – July 2025
 
 ---
 
-## Leadership
-
-**Organisation Head – Enumeratia, D.G. Ruparel College**  
-Led planning and execution of the intercollegiate statistics fest, managing timelines, logistics, and cross-functional coordination.
-
----
-
 ## Certifications
 
 - Machine Learning – Techfest, IIT Bombay & AWS (2025)  
