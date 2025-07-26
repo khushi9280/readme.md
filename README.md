@@ -73,13 +73,6 @@ May 2025 – July 2025
 
 ---
 
-## Certifications
-
-- Machine Learning – Techfest, IIT Bombay & AWS (2025)  
-- Data Analytics with R – Introductory Course (2022)
-
----
-
 ## GitHub Stats
 
 <p align="center">
